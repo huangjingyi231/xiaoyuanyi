@@ -1,0 +1,11 @@
+{
+  "name": "paper-tabs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A notebook-inspired static portfolio template.",
+  "license": "MIT",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "build": "node scripts/export.mjs"
+  }
+}

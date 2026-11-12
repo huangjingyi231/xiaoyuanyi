@@ -1,0 +1,23 @@
+/* 配色与字体的统一入口。调整文件夹颜色时同步检查前景文字的对比度。 */
+:root {
+  --canvas: #faf9f5;
+  --surface: #fffefa;
+  --desk: #e9e8e2;
+  --ink: #1c1c1a;
+  --secondary: #55564f;
+  --line: #d9d8cf;
+  --blue: #2747c7;
+  --yellow: #f5cd4a;
+  --pink: #ed8fb5;
+  --mint: #a8d5b7;
+  --lilac: #bbc1e1;
+  --cream: #eee6d4;
+  --tape: #e5cf8da6;
+  --frame-line: #b87b68;
+  --paper-rule: #25251d0a;
+  --body: "PingFang SC", "Microsoft YaHei", "Helvetica Neue", sans-serif;
+  --display: "Paper Pixel", Impact, "PingFang SC", sans-serif;
+  --hand: "Bradley Hand", "Segoe Print", cursive;
+  --mono: "SFMono-Regular", Consolas, monospace;
+  --ease: cubic-bezier(.22, .68, 0, 1);
+}
